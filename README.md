@@ -2,7 +2,7 @@
 
 ## About Me
 I am Joyce.☺️
-I am interested in data analysis and frontedn developing. 
+I am interested in data analysis and frontend developing. 
 I love creating efficient solutions and engaging designs.
 
 ### 🛠️ Programming
