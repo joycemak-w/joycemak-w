@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joyce
 - 👀 I’m interested in data analysis and frontend developing
-- 🌱 I’m currently learning python, power bi, cloud 
+- 🌱 I’m currently learning python, power bi, Azure 
 - 📫 How to reach me joycemakwaihang128@gmail.com
 
 <!---
