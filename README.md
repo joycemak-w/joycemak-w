@@ -12,8 +12,11 @@ I love creating efficient solutions and engaging designs.
 - <img src="https://github.com/user-attachments/assets/55b9db77-6640-4ec7-b135-d973f8c8f849" width="20"> **HTML**
 - <img src="https://github.com/user-attachments/assets/2f881a6b-1a63-4035-82eb-bd265343716c" width="20"> **Vue**
 - <img src="https://github.com/user-attachments/assets/f16eabf9-2610-4460-8344-68d08f978e4a" width="20"> **TypeScript**
+- <img src="https://github.com/user-attachments/assets/31389cb0-2fd2-48c3-8a91-d367a38c76e5" width="20"> **Tailwind**
 - <img src="https://github.com/user-attachments/assets/3f482e3f-ece2-4e29-acfe-66c819dbed75" width="20"> **Kotlin** (Android Studio)
 - <img src="https://github.com/user-attachments/assets/eab8fb85-5f47-4eda-a916-95686b3d03c0" width="20"> **Dart** (Flutter)
+
+
 
 ### 📊 Data Management
 - **Databases**: MySQL, PostgreSQL, MongoDB, SQLite
